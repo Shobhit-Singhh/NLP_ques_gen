@@ -65,11 +65,8 @@ The implementation of our NLP system has resulted in a substantial reduction of 
   - Extract keywords using the Python Keyword extraction library.
   - Utilize the flashtext library for fast keyword matching.
   - Implement BERT for word sense disambiguation (WSD).
-
-- **Deploy Question Generation Models to Production:**
-  - Deploy transformer models like T5 to production in a serverless fashion.
-  - Convert models to ONNX format and perform quantization.
-
+ 
+    
 ## Conclusion
 
 The Automated Educational Assessment Tool represents a significant advancement in the field of educational technology. By harnessing the power of NLP and sophisticated language models, we have successfully addressed the time-consuming nature of manual question framing. This tool empowers educators to create diverse and high-quality assessments efficiently, ultimately enhancing the overall teaching and learning experience.
